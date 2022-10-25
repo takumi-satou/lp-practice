@@ -1,1 +1,32 @@
 @charset "utf-8";
+
+.picture{
+  position: relative;
+  background: #ffffff;
+}
+
+img{
+  width: 100%;
+}
+
+.maintitle{
+  position: absolute;
+  font-size: 65px;
+  font-weight: 700;
+  color: #6ba7eb;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.subtitle{
+  position: absolute;
+  font-size: 40px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-top: 30px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
