@@ -31,3 +31,19 @@ img{
   transform: translate( -50%);
   white-space:nowrap;
 }
+
+.work-pc{
+  background: #e3f2fd;
+  display: flex;
+}
+
+.pc{
+  width: 250px;
+  margin-top: 50px;
+}
+
+.work-text{
+  font-size: 40px;
+  letter-spacing: 10px;
+  margin: 20px;
+}
