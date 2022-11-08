@@ -128,6 +128,6 @@ img{
   background: #e0efff;
 }
 
-.cell--table tbody tr:last-child{
-  border-top: 1px double #ffffff;
+.aicon{
+  background: #e3f2fd;
 }
