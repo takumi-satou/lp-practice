@@ -1,5 +1,13 @@
 @charset "utf-8";
 
+.nav{
+  background: #ffffff;
+}
+
+nav ul{
+  margin: 15px auto;
+}
+
 .keyvisual{
   position: relative;
   background: #ffffff;
